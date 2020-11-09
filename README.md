@@ -3,7 +3,8 @@ handy[![Build Status](https://travis-ci.org/yedf/handy.png)](https://travis-ci.o
 [English](https://github.com/yedf/handy/blob/master/README-en.md)
 
 ## 简洁易用的C++11网络库
-
+安装编译环境：
+sudo yum -y install gcc gcc-c++ kernel-devel
 ### 多平台支持
 
 *   Linux: ubuntu14 64bit g++4.8.1 上测试通过
